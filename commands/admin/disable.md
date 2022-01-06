@@ -1,16 +1,16 @@
 # disable
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /disable <commandName>
 ```
 
-## Arguments
+#### Arguments
 
 **`commandName`** - The name of the command
 
-## Description
+#### Description
 
 Disables a command.
 

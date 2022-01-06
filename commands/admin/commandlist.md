@@ -1,16 +1,16 @@
 # commandList
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /commandlist
 ```
 
-## Arguments
+#### Arguments
 
 None
 
-## Description
+#### Description
 
 Displays the commands that are enabled/disabled.
 

@@ -1,16 +1,16 @@
 # enable
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /enable <commandName>
 ```
 
-## Arguments
+#### Arguments
 
 **`commandName`** - The name of the command
 
-## Description
+#### Description
 
 Enables a command.
 
