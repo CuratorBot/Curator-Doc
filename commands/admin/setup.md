@@ -1,2 +1,6 @@
 # setup
 
+## Command Examples
+```
+/setup
+```

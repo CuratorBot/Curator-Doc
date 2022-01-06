@@ -1,2 +1,6 @@
 # settings
 
+## Command Examples:
+```
+/settings
+```

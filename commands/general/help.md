@@ -1,1 +1,6 @@
 # help
+
+## Command Examples:
+```
+/help
+```

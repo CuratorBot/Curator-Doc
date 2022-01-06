@@ -1,2 +1,6 @@
 # enable
 
+## Command Examples:
+```
+/enable
+```

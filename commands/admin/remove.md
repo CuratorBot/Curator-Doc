@@ -1,2 +1,6 @@
 # remove
 
+## Command Examples:
+```
+/remove
+```

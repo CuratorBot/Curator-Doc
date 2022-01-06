@@ -1,2 +1,6 @@
 # setRole
 
+## Command Examples:
+```
+/setrole
+```

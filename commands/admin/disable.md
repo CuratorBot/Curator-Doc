@@ -1,2 +1,6 @@
 # disable
 
+## Command Examples:
+```
+/disable
+```
