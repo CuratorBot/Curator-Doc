@@ -12,9 +12,9 @@ Before everything else, take note that Curator has now fully transitioned to **`
 
 **Curator can be setup in 5 simple steps:**
 
-1. Invite Curator with [this link](https://discord.com/api/oauth2/authorize?client\_id=816152179101663312\&scope=applications.commands+bot\&permissions=288482360) if you haven't yet.
-2. Once Curator is your server, type \*\*`/setup normal` \*\* in a channel Curator can see.
-   * Curator currently has 2 VC functions:
+1. Invite Curator with [this link](https://discord.com/api/oauth2/authorize?client_id=816152179101663312&scope=applications.commands+bot&permissions=288482360) if you haven't yet.
+2. Once Curator is your server, type **`/setup normal`** in a channel Curator can see.
+   - Curator currently has 2 VC functions:
      1. **`/setup normal`** - Creates a standard Category and Voice Channel. More Info
      2. **`/setup clone`** - Creates a cloned version of Category and Voice Channel. More Info
 3. Curator would then create a new Category named **`Custom Voice Channels`** with a Voice Channel named **`🔊｜Join to create!`** inside.
