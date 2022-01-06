@@ -1,0 +1,6 @@
+# hide
+
+## Command Examples:
+```
+/hide
+```

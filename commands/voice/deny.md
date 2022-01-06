@@ -1,0 +1,6 @@
+# deny
+
+## Command Examples:
+```
+/deny
+```

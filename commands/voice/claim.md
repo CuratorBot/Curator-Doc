@@ -1,0 +1,6 @@
+# claim
+
+## Command Examples:
+```
+/claim
+```

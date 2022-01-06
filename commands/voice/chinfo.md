@@ -1,0 +1,6 @@
+# chinfo
+
+## Command Examples:
+```
+/chinfo
+```

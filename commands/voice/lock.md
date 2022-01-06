@@ -1,0 +1,6 @@
+# lock
+
+## Command Examples:
+```
+/lock
+```

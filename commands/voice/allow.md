@@ -1,0 +1,6 @@
+# allow
+
+## Command Examples:
+```
+/allow
+```

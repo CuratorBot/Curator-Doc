@@ -1,0 +1,6 @@
+# limit
+
+## Command Examples:
+```
+/limit
+```

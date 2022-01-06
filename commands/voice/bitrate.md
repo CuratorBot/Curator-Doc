@@ -1,0 +1,6 @@
+# bitrate
+
+## Command Examples:
+```
+/bitrate
+```

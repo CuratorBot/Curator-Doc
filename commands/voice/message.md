@@ -1,0 +1,6 @@
+# message
+
+## Command Examples:
+```
+/message
+```

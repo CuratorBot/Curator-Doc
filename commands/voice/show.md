@@ -1,0 +1,6 @@
+# show
+
+## Command Examples:
+```
+/show
+```
