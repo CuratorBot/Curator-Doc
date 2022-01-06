@@ -1,7 +1,8 @@
 # clone
 
 ## Command Examples:
-```
+
+```fix
 /clone select <#category OR categoryId>
 /clone add [name]
 /clone remove <#channel OR channelId>
