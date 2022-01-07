@@ -1,6 +1,6 @@
 # deny
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /deny

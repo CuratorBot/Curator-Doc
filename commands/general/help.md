@@ -1,6 +1,6 @@
 # help
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /help

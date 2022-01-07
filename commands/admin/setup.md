@@ -1,6 +1,6 @@
 # setup
 
-## Command Examples
+#### Command Examples
 
 ```fix
 /setup

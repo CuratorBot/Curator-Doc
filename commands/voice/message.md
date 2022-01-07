@@ -1,6 +1,6 @@
 # message
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /message

@@ -1,6 +1,6 @@
 # lock
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /lock

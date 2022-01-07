@@ -1,6 +1,6 @@
 # remove
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /remove

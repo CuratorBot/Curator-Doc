@@ -1,7 +1,7 @@
-# allow
+# textchannel
 
 #### Command Examples:
 
 ```fix
-/allow
+/textchannel
 ```

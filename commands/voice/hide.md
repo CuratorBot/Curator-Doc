@@ -1,6 +1,6 @@
 # hide
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /hide

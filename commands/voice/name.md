@@ -1,7 +1,7 @@
-# allow
+# name
 
 #### Command Examples:
 
 ```fix
-/allow
+/name
 ```

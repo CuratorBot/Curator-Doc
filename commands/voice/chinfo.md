@@ -1,6 +1,6 @@
 # chinfo
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /chinfo

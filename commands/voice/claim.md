@@ -1,6 +1,6 @@
 # claim
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /claim

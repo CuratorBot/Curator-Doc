@@ -1,6 +1,6 @@
 # settings
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /settings

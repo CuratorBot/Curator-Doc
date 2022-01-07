@@ -1,6 +1,6 @@
 # show
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /show

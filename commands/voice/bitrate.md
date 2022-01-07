@@ -1,6 +1,6 @@
 # bitrate
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /bitrate

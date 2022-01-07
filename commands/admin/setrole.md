@@ -1,6 +1,6 @@
 # setRole
 
-## Command Examples:
+#### Command Examples:
 
 ```fix
 /setrole

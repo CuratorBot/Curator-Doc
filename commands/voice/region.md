@@ -1,7 +1,7 @@
-# allow
+# region
 
 #### Command Examples:
 
 ```fix
-/allow
+/region
 ```
