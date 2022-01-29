@@ -6,11 +6,11 @@
 /remove #channel
 ```
 
-#### Arguments
+#### Arguments:
 
 **`#channel`** - The channel to remove
 
-#### Description
+#### Description:
 
 Removes a Custom Voice Channel
 

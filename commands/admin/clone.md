@@ -8,7 +8,7 @@
 /clone remove <#channel OR channelId>
 ```
 
-#### Arguments
+#### Arguments:
 
 **`#category`** - The category you wish to select/remove.
 
@@ -16,7 +16,7 @@
 
 **`name`** - An optional argument to set the name of the cloned channel it will create.
 
-#### Description
+#### Description:
 
 The clone command is the main command manager for managing Cloned VCs. You use this command to manage existing Cloned VCs.
 
