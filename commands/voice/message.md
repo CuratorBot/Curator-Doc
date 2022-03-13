@@ -11,10 +11,10 @@
 
 #### Arguments:
 
-- **join** - Changes the join message for the text channel.
-- **leave** - Changes the leave message for the text channel.
-- **reset** - Resets either the join or leave message of the text channel.
-- **toggle** - Toggles sending the join/leave message in the text channel.
+- **`join`** - Changes the join message for the text channel.
+- **`leave`** - Changes the leave message for the text channel.
+- **`reset`** - Resets either the join or leave message of the text channel.
+- **`toggle`** - Toggles sending the join/leave message in the text channel.
 
 #### Placeholders:
 

@@ -8,7 +8,7 @@
 
 #### Arguments
 
-- **@user** - The user to allow
+- **`@user`** - The user to allow
 
 #### Description
 

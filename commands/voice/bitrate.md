@@ -8,7 +8,7 @@
 
 #### Arguments:
 
-- **number** - The number to set the bitrate, valid values are from 8kbps upto a maximum of 384kbps depending on your server boost level.
+- **`number`** - The number to set the bitrate, valid values are from 8kbps up to a maximum of 384kbps depending on your server boost level.
 
 #### Description:
 

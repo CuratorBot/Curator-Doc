@@ -8,7 +8,7 @@
 
 #### Arguments:
 
-- **region** - The region to set the voice channel
+- **`region`** - The region to set the voice channel
 
 #### Description:
 

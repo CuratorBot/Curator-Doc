@@ -10,10 +10,10 @@
 
 #### Arguments:
 
-- **both** - Changes both the text and voice channel
-- **text** - Changes the text channel
-- **voice** - Changes the voice channel
-- **channelName** - The new name for the channel
+- **`both`** - Changes both the text and voice channel
+- **`text`** - Changes the text channel
+- **`voice`** - Changes the voice channel
+- **`channelName`** - The new name for the channel
 
 #### Description:
 

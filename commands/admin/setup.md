@@ -9,8 +9,8 @@
 
 #### Arguments:
 
-- normal - sets up normal CVCs. [More info](../../topics/normal-vcs.md)
-- clone - sets up cloned CVCs. [More info](../../topics/cloned-vcs.md)
+- **`normal`** - sets up normal CVCs. [More info](../../topics/normal-vcs.md)
+- **`clone`** - sets up cloned CVCs. [More info](../../topics/cloned-vcs.md)
 
 #### Description:
 

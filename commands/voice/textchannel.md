@@ -9,7 +9,7 @@
 
 #### Arguments
 
-- **toggle** - Tell Curator wether or not he would make a text channel for you the next time you join a parent channel.
+- **`toggle`** - Tell Curator wether or not he would make a text channel for you the next time you join a parent channel.
 
 #### Description:
 

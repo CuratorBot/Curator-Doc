@@ -8,7 +8,7 @@
 
 #### Arguments:
 
-- **@user** - The user to deny
+- **`@user`** - The user to deny
 
 #### Description:
 

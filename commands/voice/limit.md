@@ -8,7 +8,7 @@
 
 #### Arguments:
 
-- **number** - The number of users to join the VC.
+- **`number`** - The number of users to join the VC.
 
 #### Description:
 

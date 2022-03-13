@@ -9,7 +9,7 @@
 
 #### Arguments:
 
-- **commandName** - Optional argument to get help on a specific command
+- **`commandName`** - Optional argument to get help on a specific command
 
 #### Description
 
