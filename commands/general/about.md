@@ -1,9 +1,9 @@
-# claim
+# about
 
 #### Command Examples:
 
 ```fix
-/claim
+/about
 ```
 
 #### Arguments:
@@ -12,4 +12,4 @@
 
 #### Description:
 
-Claims the Current Voice Channel **ONLY IF THE OWNER IF ABSENT**
+Displays the about page of the bot.

@@ -5,3 +5,11 @@
 ```fix
 /lock
 ```
+
+#### Arguments:
+
+- **None**
+
+#### Description:
+
+Locks the current VC.

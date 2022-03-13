@@ -1,5 +1,13 @@
 {
   "editor.codeActionsOnSave": {
     "source.fixAll.markdownlint": true
-  }
+  },
+  "cSpell.words": [
+    "commandlist",
+    "endhint",
+    "gitbook",
+    "setrole",
+    "textchannel",
+    "unhides"
+  ]
 }

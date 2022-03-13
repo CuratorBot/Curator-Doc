@@ -1,9 +1,9 @@
-# claim
+# ping
 
 #### Command Examples:
 
 ```fix
-/claim
+/ping
 ```
 
 #### Arguments:
@@ -12,4 +12,4 @@
 
 #### Description:
 
-Claims the Current Voice Channel **ONLY IF THE OWNER IF ABSENT**
+The bot's ping for the API and WebSocket
