@@ -18,9 +18,9 @@
 
 #### Placeholders:
 
-- **%user%** - The user who entered/left the voice channel.
-- **%user_mention** - Same as `%user%` but Curator would mention them instead.
-- **%channelName%** - The name of the channel the user joined.
+- **`%user%`** - The user who entered/left the voice channel.
+- **`%user_mention%`** - Same as `%user%` but Curator would mention them instead.
+- **`%channelName%`** - The name of the channel the user joined.
 
 #### Description:
 
