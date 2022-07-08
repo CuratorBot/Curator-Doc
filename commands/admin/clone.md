@@ -6,15 +6,15 @@
 /clone select <#category OR categoryId>
 /clone add [name]
 /clone remove <#channel OR channelId>
+/clone setcategory <category>
 ```
 
 #### Arguments:
 
-**`#category`** - The category you wish to select/remove.
-
-**`categoryId`** - The ID of the channel you wish to select/remove.
-
-**`name`** - An optional argument to set the name of the cloned channel it will create.
+- **`#category`** - The category you wish to select/remove.
+- **`categoryId`** - The ID of the channel you wish to select/remove.
+- **`name`** - An optional argument to set the name of the cloned channel it will create.
+- **`setcategory`** - Sets the new category for you parents VCs to live.
 
 #### Description:
 
@@ -31,3 +31,5 @@ You can also check if you have existing Clone VCs by running the **`/settings`**
 Once you have the category selected, you can now use the **`/clone add`** command to add VCs. Simply run the **`/clone add`** command then Curator would make a new Voice Channel named **`New Clone Channel`**. You can optionally add an argument that would serve as the name of the VC created instead of the default.
 
 You can also remove/delete Voice Channels by running the **`/clone remove`** command. To do this, simply run the **`/clone remove`** command and add either the **`channel`**, or the **`channelId`** of the channel you want to remove.
+
+To change the category of clone VCs, simply run the **`/clone setcategory`** command followed by the category you wish to move them to. After running this command, Curator would respond with a success message and you would find that the parent VCs have been automatically moved to the new category.

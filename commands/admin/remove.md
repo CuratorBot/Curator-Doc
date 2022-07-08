@@ -8,7 +8,7 @@
 
 #### Arguments:
 
-**`#channel`** - The channel to remove
+- **`#channel`** - The channel to remove
 
 #### Description:
 

@@ -8,7 +8,7 @@
 
 #### Arguments:
 
-**`commandName`** - The name of the command
+- **`commandName`** - The name of the command
 
 #### Description:
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Normal VCs is your basic Custom VC creation that can be customized the channel owner without restrictions.
+Normal VCs is your basic Custom VC creation that can be customized by the channel owner without restrictions.
 
 ### Behavior
 
