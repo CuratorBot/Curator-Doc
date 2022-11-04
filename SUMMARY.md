@@ -8,6 +8,8 @@
 - [Normal VCs](topics/normal-vcs.md)
 - [Cloned VCs](topics/cloned-vcs.md)
 - [Permissions](topics/permissions.md)
+- [Privacy Policy](topics/privacy.md)
+- [Terms of Service](topics/terms.md)
 
 ## Commands
 

@@ -1,1 +1,3 @@
-# WIP
+# Terms of Service
+
+WIP
