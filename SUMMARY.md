@@ -40,6 +40,5 @@
   - [disable](commands/admin/disable.md)
   - [enable](commands/admin/enable.md)
   - [remove](commands/admin/remove.md)
-  - [setRole](commands/admin/setrole.md)
   - [settings](commands/admin/settings.md)
   - [setup](commands/admin/setup.md)
